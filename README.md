@@ -8,13 +8,7 @@ Welcome to my resume repository! This repo contains my up-to-date professional r
 
 I'm a final-year Computer Science Engineering student passionate about full-stack development, blockchain, and AI-powered applications. I enjoy building scalable, real-world projects and have hands-on experience across the MERN stack, Java, and Web3 technologies.
 
----
 
-## 📁 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `resume.pdf` | Latest version of my resume |
 
 ---
 
